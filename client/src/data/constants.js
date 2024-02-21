@@ -7,9 +7,9 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/126PMrk_hH-ftRCgKt-KOdRQqs_5qdDc-/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/deepak-kumar-7844b6214/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  twitter: "https://twitter.com/KanoujiyaD62376",
+  insta: "https://www.instagram.com/deepak_kanoujiya63/",
+  facebook: "https://www.facebook.com/deepakkumar28501/",
 };
 
 export const skills = [
@@ -196,8 +196,8 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
-    school: "Kalinga Institute of Industrial Technology, Bhubaneswar",
+    img: "https://res.cloudinary.com/dxat0v07q/image/upload/v1708541909/portfolio/kiitlogo_pkgywd.png",
+    school: "Kalinga Institute of Industrial Technology, Bhubaneswar, Odisha",
     date: "Oct 2022 - Jun 2024",
     grade: "8.56 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
@@ -205,21 +205,21 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2019 - Apr 2025",
-    grade: "88.2%",
-    desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-    degree: "ISC(XII), Science with Computer",
+    img: "https://res.cloudinary.com/dxat0v07q/image/upload/v1708541908/portfolio/dbaru_d9nqez.png",
+    school: "Dr. Bhimrao Ambedkar University, Agra,Uttar Pradesh",
+    date: "Aug 2019 - Jun 2022",
+    grade: "74%",
+    desc: "I completed Bachelor in Computer Application, Firozabad (Uttar Pradesh), where I learn C, C++, Java, Web Development and other computer technologies.",
+    degree: "Bachelor of Computer Application- (BCA) Computer Application ",
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2017 - Apr 2019",
-    grade: "92.3%",
-    desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
-    degree: "ICSC(X), Science with Computer",
+    img: "https://res.cloudinary.com/dxat0v07q/image/upload/v1708549647/portfolio/board-of-high-school-intermediate-uttar-pradesh-logo_oxu3ch.png",
+    school: "Shri Gopinath Inter College, Firozabad, Uttar Pradesh",
+    date: "Apr 2017 - Apr 2018",
+    grade: "66%",
+    desc: "I completed Intermediate at Science, Firozabad.",
+    degree: "UP Board(XII), Science Stream",
   },
 ];
 
