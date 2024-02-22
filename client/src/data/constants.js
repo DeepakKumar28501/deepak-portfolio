@@ -5,11 +5,12 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/DeepakKumar28501",
   resume:
-    "https://drive.google.com/file/d/126PMrk_hH-ftRCgKt-KOdRQqs_5qdDc-/view?usp=sharing",
+    "https://drive.google.com/file/d/1sv1c2UPRQbo68W880CCaBQD6gcIzMPVq/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/deepak-kumar-7844b6214/",
   twitter: "https://twitter.com/KanoujiyaD62376",
   insta: "https://www.instagram.com/deepak_kanoujiya63/",
   facebook: "https://www.facebook.com/deepakkumar28501/",
+  youtube: "https://www.facebook.com/deepakkumar28501/",
 };
 
 export const skills = [
@@ -437,9 +438,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
+
+  { year: 2018, text: "Complete Intermediate" },
+  { year: 2019, text: "start Bachelor in Computer Application" },
   { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  { year: 2021, text: "Start Web Development" },
 ];
