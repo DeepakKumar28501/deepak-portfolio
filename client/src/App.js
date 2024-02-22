@@ -10,6 +10,7 @@ import Experience from "./components/Experience"
 import Footer from "./components/Footer";
 import Contact from "./components/Contact";
 import { BrowserRouter as Router } from "react-router-dom";
+import Projects from "./components/Projects";
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
   width: 100%;
@@ -39,6 +40,7 @@ function App() {
         <Wrapper>
           <Skills />
           <Experience/>
+          <Projects/> 
           <Education />
           <Contact />
         </Wrapper>
