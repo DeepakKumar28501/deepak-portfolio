@@ -226,7 +226,7 @@ export const education = [
 
 export const projects = [
   {
-    id: 11,
+    id: 1,
     title: "Restaurant Billing System",
     date: "Jan 2022 - March 2022",
     description:
@@ -243,6 +243,23 @@ export const projects = [
     ],
     category: "fullStack",
     github: "https://github.com/DeepakKumar28501/Dsd_restorent.github.io",
+    webapp: "http://dsdcafe.infinityfreeapp.com/login.php?i=1",
+  },
+  {
+    id: 2,
+    title: "Calculator",
+    date: "Mar 2022",
+    description:
+      "This project is a simple yet functional calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.",
+    image:
+      "https://github.com/DeepakKumar28501/calculator/assets/121509463/39070cdc-8d55-4ade-bc05-85e570ca30b8",
+    tags: [
+      "HTML",
+      "CSS",
+      "Javascript",
+    ],
+    category: "fullStack",
+    github: "https://github.com/DeepakKumar28501/calculator.git",
     webapp: "http://dsdcafe.infinityfreeapp.com/login.php?i=1",
   },
   
