@@ -161,6 +161,24 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://res.cloudinary.com/dxat0v07q/image/upload/v1709032541/portfolio/sszonelogo.jpg",
+    role: "Full Stack Developer",
+    company: "SSZone technologies",
+    date: "Feb 2024 - Present",
+    desc: "I am a driven Full Stack Intern with a passion for merging creativity and technical skills to develop intuitive web solutions. Proficient in HTML, CSS, JavaScript, and server-side languages, I thrive in collaborative environments, tackling challenges from design to deployment. Eager to learn and innovate, I aim to make a significant impact in the tech industry.",
+    skills: [
+      "ReactJS",
+      "Redux",
+      "NodeJs",
+      "Material UI",
+      "HTML",
+      "CSS",
+      "JavaScript",
+    ],
+    doc: "https://drive.google.com/file/d/1vON5jqbz6UiaUQaYfUrljA5qJ_DJ0zWT/view?usp=sharing",
+  },
+  {
+    id: 0,
     img: "https://res.cloudinary.com/dxat0v07q/image/upload/v1708541907/portfolio/celeballogo_h5snz1.jpg",
     role: "React Developer Intern",
     company: "Celebal technologies",
@@ -261,6 +279,25 @@ export const projects = [
     category: "fullStack",
     github: "https://github.com/DeepakKumar28501/calculator.git",
     webapp: "http://dsdcafe.infinityfreeapp.com/login.php?i=1",
+  },
+  {
+    id: 1,
+    title: "CODEXDESK UI",
+    date: "Feb 2024",
+    description:
+      "Designed and implemented a user-friendly interface, allowing waitstaff to efficiently manage order records. Designed and integrated user authentication, enhancing the website’s privacy and user account management.",
+    image:
+      "https://res.cloudinary.com/dxat0v07q/image/upload/v1709033264/portfolio/codexdesk.png",
+    tags: [
+      "HTML",
+      "CSS",
+      "BootStraps",
+      "Javascript",
+      
+    ],
+    category: "frontend",
+    github: "https://github.com/DeepakKumar28501/sszoneData",
+    webapp: "https://deepakkumar28501.github.io/sszoneData/",
   },
   
 ];
