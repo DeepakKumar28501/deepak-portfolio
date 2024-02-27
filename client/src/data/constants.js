@@ -175,7 +175,7 @@ export const experiences = [
       "CSS",
       "JavaScript",
     ],
-    doc: "https://drive.google.com/file/d/1vON5jqbz6UiaUQaYfUrljA5qJ_DJ0zWT/view?usp=sharing",
+    doc: "https://res.cloudinary.com/dxat0v07q/image/upload/v1709033569/portfolio/sszone_offer_s4k0or.jpg",
   },
   {
     id: 0,
